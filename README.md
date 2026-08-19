@@ -195,3 +195,5 @@ This project helped me practice the complete process of working with data in Exc
 More importantly, I learned that building a dashboard is not just about making charts look good. The important part is starting with a business question, choosing the right analysis, and then using the appropriate visualization to communicate the result.
 
 This project also helped me become more comfortable with PivotTables, PivotCharts, slicers, KPI calculations, and turning analysis into a clear dashboard.
+
+![Superstore Dashboard](dashboard.png)
